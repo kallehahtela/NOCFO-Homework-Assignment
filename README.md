@@ -19,3 +19,5 @@ Also this will use Expo so Expo Go is a relevant for testing with your own mobil
   At the frontend part to display the data I was using the <FlatList /> to get best solution I knew.
 - Navigation were done by using React Navigation for simple and fast iteration.
 - Icons were from expo icons which can be found more on https://icons.expo.fyi/Index
+
+![IMG_4643](https://github.com/user-attachments/assets/31622f97-fb25-41be-918d-46d6c81a14cc | width=100)
